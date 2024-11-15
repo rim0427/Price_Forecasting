@@ -5,7 +5,7 @@
 ## 🏆 Result
 ## **Public score 1st** 0.08605 | **Private score 1st** 0.07665 | 최종 1등
 
-<img width="100%" src="https://github.com/user-attachments/assets/a348c9e6-4685-43da-89e2-041f993f464a"/>
+<img width="100%" src="https://github.com/user-attachments/assets/51ed525a-5ab5-439a-8086-cc0ac25b2eca"/>
 주최 : ```디지털플랫폼정부위원회, 농림축산식품부```
 
 규모 : 총 1500여명 참가

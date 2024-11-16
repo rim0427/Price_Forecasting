@@ -408,12 +408,14 @@
 - **시계열적 요인:** Low-Pass Filter 등을 활용해 환경적 영향을 반영 등을 통해 시간 흐름에 따른 변동성을 학습.
 - **외부적 요인:** 정부 개입 정보를 반영해, 외부 요인에 따른 가격 변동성을 예측.
 
-```
+
 
 ## 🎈 Modeling
+```
+**Time-Series**
 
-**Predict Model**
+**Machine Learning**
+
+**Time-ML**
 ```
-LSTF-Linear
-LSTM
-```
+

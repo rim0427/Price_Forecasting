@@ -413,7 +413,7 @@
 ## 🎈 Modeling
 ```
 **Time-Series**
- - DLinear  
+ - DLinear(본선 사용)  
  - NLinear  
  - LSTFLinear  
  - SegRNN  
@@ -422,7 +422,7 @@
  - PatchTST  
 
 **Machine Learning**
- - LGBM  
+ - LGBM(본선 사용)  
  - XGBoost  
  - CatBoost  
  - ExtraTree  

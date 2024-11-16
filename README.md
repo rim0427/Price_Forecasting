@@ -1,5 +1,4 @@
-# Price_Forecasting
-# LG-Demand_Forecasting [(Link)](https://dacon.io/competitions/official/236381/leaderboard)
+# Price_Forecasting [(Link)](https://dacon.io/competitions/official/236381/leaderboard)
 # 인기상 [(Link)](https://dacon.io/competitions/official/236417/leaderboard)
 
 ## 🏆 Result

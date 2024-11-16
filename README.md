@@ -412,7 +412,7 @@
 
 ## 🎈 Modeling
 ```
-**Time-Series**
+** Time-Series **
 
 **Machine Learning**
 

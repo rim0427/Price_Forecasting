@@ -412,10 +412,25 @@
 
 ## 🎈 Modeling
 ```
-** Time-Series **
+**Time-Series**
+ - DLinear  
+ - NLinear  
+ - LSTFLinear  
+ - SegRNN  
+ - ITransformer  
+ - Temporal Fusion Transformer  
+ - PatchTST  
 
 **Machine Learning**
+ - LGBM  
+ - XGBoost  
+ - CatBoost  
+ - ExtraTree  
+ - RandomForest  
+ - Ridge  
 
 **Time-ML**
+ - LGBM기반 DLinear 예측값 활용  
+
 ```
 

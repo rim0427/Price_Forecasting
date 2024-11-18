@@ -1,0 +1,8 @@
+
+
+농산물 반입량 :https://www.nongnet.or.kr/qlik/sso/single/?appid=bf720c79-68d3-45e8-81de-d066e82d4477&sheet=4f558828-3a48-48d7-8813-fd578ec357b4&theme=theme_at_24&opt=ctxmenu,currsel&select=$::%ED%92%88%EB%AA%A9%EB%AA%85_%EC%84%A0%ED%83%9D,%EC%96%91%ED%8C%8C&select=$::%EB%8C%80%EC%83%81%EC%9D%BC%EC%9E%90_%EC%84%A0%ED%83%9D,45573,45574,45575,45576,45577,45578,45579,45580,45581,45582,45583,45584,45585,45586
+
+농산물 정산거래물량, 확정거래물량 :     https://oasis.krei.re.kr/basicInfo/garak/price.do
+
+전국도매시장 경락 데이터 : https://www.nongnet.or.kr/qlik/sso/single/?appid=551d7860-2a5d-49e5-915e-56517f3da2a3&sheet=d89143e2-368a-4d41-9851-d4f58ce060dc&theme=theme_at_24&opt=ctxmenu,currsel&select=$::%ED%92%88%EB%AA%A9%EB%AA%85_%EC%84%A0%ED%83%9D,%EC%96%91%EB%B0%B0%EC%B6%94&select=$::%EA%B2%BD%EB%9D%BD%EC%9D%BC%EC%9E%90_%EC%84%A0%ED%83%9D,45571,45572,45573,45574,45575,45576,45577,45578,45579,45580,45581,45582,45583,45584
+

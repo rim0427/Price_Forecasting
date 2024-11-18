@@ -1,0 +1,17 @@
+os version: posix
+PyTorch version: 2.5.0+cu124
+random module: built-in module, no version
+NumPy version: 1.23.5
+Pandas version: 1.5.3
+Scikit-learn version: 1.1.3
+------------------------------------------------------------------------------
+Operating System: Linux 6.8.0-47-generic
+Python Version: 3.10.13
+CPU: x86_64
+CPU Cores: 14 physical, 20 logical
+Total Memory: 31.18 GB
+Available Memory: 22.16 GB
+Number of GPUs: 1
+GPU 0: NVIDIA GeForce RTX 4070
+  - CUDA Capability: (8, 9)
+  - Total Memory: 11.72 GB

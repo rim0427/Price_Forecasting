@@ -1,0 +1,17 @@
+외부데이터
+
+1. 반입물량
+농산물 반입량 :https://www.nongnet.or.kr/qlik/sso/single/?appid=bf720c79-68d3-45e8-81de-d066e82d4477&sheet=4f558828-3a48-48d7-8813-fd578ec357b4&theme=theme_at_24&opt=ctxmenu,currsel&select=$::%ED%92%88%EB%AA%A9%EB%AA%85_%EC%84%A0%ED%83%9D,%EC%96%91%ED%8C%8C&select=$::%EB%8C%80%EC%83%81%EC%9D%BC%EC%9E%90_%EC%84%A0%ED%83%9D,45573,45574,45575,45576,45577,45578,45579,45580,45581,45582,45583,45584,45585,45586
+
+2. 확정거래물량
+농산물 정산거래물량, 확정거래물량 :     https://oasis.krei.re.kr/basicInfo/garak/price.do
+
+3. 기상데이터 
+기상청 기상자료개방포털: 
+https://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do?pgmNo=179
+
+4. 수출입 데이터
+농넷: https://www.nongnet.or.kr/qlik/sso/single/?appid=06142b92-a678-4fc6-bba9-9987d5d6128e&sheet=e227531d-a4d2-4ed3-9ba7-40593b48eb3c&theme=theme_at_24&opt=ctxmenu,currsel&select=$::%ED%92%88%EB%AA%A9%EB%AA%85_%EC%84%A0%ED%83%9D,%EB%AC%B4&select=$::%EB%8C%80%EC%83%81%EB%85%84%EC%9B%94_%EC%84%A0%ED%83%9D,Invalid%20date,Invalid%20date,Invalid%20date,Invalid%20date
+
+5. 유가 데이터
+investing.com: https://kr.investing.com/commodities/crude-oil-historical-data

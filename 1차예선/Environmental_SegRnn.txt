@@ -1,0 +1,8 @@
+Environmental :
+NumPy version: 1.23.5
+Pandas version: 1.5.3
+Scikit-learn version: 1.5.2
+Operating System: Linux 6.8.0-45-generic
+CPU: x86_64
+CUDA Available: True
+GPU Device Name: NVIDIA GeForce RTX 4070

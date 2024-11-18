@@ -1,8 +1,9 @@
 # Price_Forecasting [(Link)](https://dacon.io/competitions/official/236381/leaderboard)
+데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로
+
 # 인기상 [(Link)](https://dacon.io/competitions/official/236417/leaderboard)
 
-# agricultural-price-prediction-competition
-데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로
+
 
 ## 🏆 Result
 
